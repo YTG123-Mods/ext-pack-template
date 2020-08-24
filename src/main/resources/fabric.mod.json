@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "meme-ext-pack",
+  "version": "${version}",
+  "name": "Meme Songs Extension Pack for Song Sounds",
+  "description": "Adds a bunch of meme songs to choose from!",
+  "authors": [
+    "YTG123",
+    "Tzabarpho"
+  ],
+  "contributors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/meme-ext-pack/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [],
+    "client": [],
+    "server": []
+  },
+  "depends": {
+    "fabricloader": ">=0.9.2",
+    "songsounds": ">=2.1.0"
+  }
+}
