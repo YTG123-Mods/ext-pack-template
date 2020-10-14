@@ -14,10 +14,7 @@ public class MemeExtPack implements ModInitializer {
     public static final String MOD_NAME = "Meme Songs Extension Pack for Song Sounds";
 
     @Override
-    public void onInitialize() {
-        log(Level.INFO, "Initializing");
-        //TODO: Initializer
-    }
+    public void onInitialize() {}
 
     public static void log(Level level, String message){
         LOGGER.log(level, "["+MOD_NAME+"] " + message);
