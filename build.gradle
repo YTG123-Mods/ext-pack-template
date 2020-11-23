@@ -6,7 +6,8 @@ plugins {
 repositories {
 	mavenCentral()
 	maven {
-		url = "https://jitpack.io"
+		url = "https://ytg1234.github.io/maven"
+		name = "YTG1234"
 	}
 }
 
@@ -28,7 +29,7 @@ dependencies {
 
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_api_version}"
 
-	modRuntime "com.github.YTG1234:song-sounds:2.1.0"
+	modImplementation("io.github.ytg1234:song-sounds:+")
 }
 
 processResources {
