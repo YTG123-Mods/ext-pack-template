@@ -29,7 +29,7 @@ dependencies {
 
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_api_version}"
 
-	modImplementation("io.github.ytg1234:song-sounds:+")
+	modImplementation("io.github.ytg1234:song-sounds:4.0.0")
 }
 
 processResources {

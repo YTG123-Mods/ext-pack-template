@@ -20,7 +20,7 @@
   },
   "depends": {
     "fabricloader": ">=0.9.2",
-    "songsounds": "~3.0"
+    "songsounds": "~4.0"
   },
   "custom": {
     "modmenu:parent": "songsounds"
