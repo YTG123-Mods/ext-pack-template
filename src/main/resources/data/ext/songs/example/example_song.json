@@ -1,0 +1,19 @@
+{
+  "name": "Example Song",
+  "sections": [
+    {
+      "name": "Example Song",
+      "notes": [
+        "C_1",
+        "D_1",
+        "E_1",
+        "F_1",
+        "G_2",
+        "A_2",
+        "B_2",
+        "C_2",
+      ]
+    }
+  ]
+}
+

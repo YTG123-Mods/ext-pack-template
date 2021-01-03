@@ -1,6 +1,6 @@
 {
     "replace": false,
     "values": [
-        "ext:memes/load"
+        "ext:example/load"
     ]
 }
