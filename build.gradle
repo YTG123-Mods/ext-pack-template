@@ -30,6 +30,8 @@ dependencies {
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_api_version}"
 
 	modImplementation("io.github.ytg1234:song-sounds:${project.songsounds_version}")
+
+	modRuntime("net.fabricmc:fabric-launguage-kotlin:${project.flk_version}")
 }
 
 processResources {
